@@ -1,0 +1,22 @@
+{
+  "itn": {
+  "owner": "ed25519_pk1vy3yrxt5l0dalmrkue4r0z96lqzlnsh7tzw3src3nzxcwu7nlfzq6qs25k",
+  "witness": "ed25519_sig1euedce55ygelkz564fdkmxsmxkwhvpud3rhwv5x6w038nxnszvzf5vv9ypnuml7xlgf499vva4q6hphwyfefcsa6a6pks2m38tnf5pq5cwj3u"
+  },
+  "adapools": {
+  "url_png_logo": "https://www.garden-pool.com/8Nr5NTu.png",
+  "location": "England, United Kingdom",
+  "social": {
+      "twitter_handle": "EdenGardenPool",
+      "telegram_handle": "Dostrelith",
+      "facebook_handle": "",
+      "youtube_handle": "edengardenpool",
+      "twitch_handle": "",
+      "discord_handle": ""
+  },
+    "about": {
+        "me": "I am a software developer working in the United Kingdom. My experience as a Stake Pool Operator began in March 2020 when I joined the ITN. Since then, I have learned a massive amount from the pioneers and I am doing my contribution with YouTube videos on Stake Pool Operations.",
+        "server": "1 block producer (main), 1 backup BP + 3 relays distributed around the world."
+    }
+  }
+}
